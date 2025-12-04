@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name": "TicoSoft SRL",
+    "legalId": "3-101-123456",
+    "address": "San José, Costa Rica",
+    "phone": "+506 2222-2222",
+    "email": "nomina@ticosoft.cr"
+  },
+  "period": {
+    "start": "01/12/2023",
+    "end": "30/11/2024"
+  },
+  "employees": [
+    {
+      "id": "E001",
+      "name": "Ana Rojas",
+      "position": "Analista de Datos",
+      "monthlyEarnings": [
+        850000,
+        860000,
+        870000,
+        890000,
+        915000,
+        930000,
+        940000,
+        950000,
+        960000,
+        970000,
+        980000,
+        995000
+      ],
+      "notes": "Incluye comisiones variables."
+    },
+    {
+      "id": "E002",
+      "name": "Carlos Jiménez",
+      "position": "Soporte Técnico",
+      "monthlyEarnings": [
+        650000,
+        655000,
+        660000,
+        670000,
+        680000,
+        690000,
+        700000,
+        705000,
+        710000,
+        715000,
+        720000,
+        730000
+      ],
+      "notes": "Contrato indefinido, incluye guardias nocturnas."
+    }
+  ]
+}
